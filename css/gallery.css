@@ -1,0 +1,35 @@
+h1{
+    color: darkred;
+    text-align: center;
+    background-color: black;
+    font-weight: bolder;
+    text-shadow: moccasin;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+
+img:hover{
+    opacity: 0.7;
+
+}
+ table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 50px 0;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 20px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+
+.wrapper {
+    background-color: lightgray;
+}
